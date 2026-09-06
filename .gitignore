@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Build/cache
+dist/
+build/
+target/
+__pycache__/
+
+# Local files
+*.log
+.env
